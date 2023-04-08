@@ -1,11 +1,9 @@
 ### Hi! I'm Artur 👋
-I'm a Software Engineer based in Australia :australia:
+I'm a Software Engineer based in Western Australia :australia:
 
 Usually I do
 
-- :computer: backend tech, 
-
-- :gear: automate stuff,
+- :computer: full stack dev,
 
 - :family_man_woman_boy: spend time with the family,
 
