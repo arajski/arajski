@@ -1,9 +1,9 @@
 ### Hi! I'm Artur 👋
 I'm a Software Engineer based in Western Australia :australia:
 
-I like to do
+I usually like to:
 
-- :computer: backend and infra engineering,
+- :computer: develop backend systems and work with infrastructure,
 
 - :family_man_woman_boy: spend time with the family,
 
