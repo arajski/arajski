@@ -1,10 +1,10 @@
 ### Hi! I'm Artur 👋
 I'm a Software Engineer based in Western Australia :australia:
 
-Usually I do
+I like to do
 
-- :computer: full stack dev,
+- :computer: backend and infra engineering,
 
 - :family_man_woman_boy: spend time with the family,
 
-- :diving_mask: occasionally dive really deep.
+- :diving_mask: train and teach freediving
